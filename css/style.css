@@ -1,0 +1,35 @@
+
+
+body{
+    font-family: 'Montserrat',sans-serif;
+}
+.main{
+    width:70%;
+}
+.mainicon{
+    width:80px;
+    height:80px;
+}
+.heading {
+    font-weight: bold;
+    font-size: 30px;
+}
+.main1{
+    width:80%;
+}
+.but{
+    height:50px;
+}
+.but p{
+font-size: 20px;
+}
+.grey{
+    color:grey;
+    font-weight: bold;
+}
+.bg-grey{
+    background-color: grey;
+}
+.font{
+    font-weight: bold;
+}
